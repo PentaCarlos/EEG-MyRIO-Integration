@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="18008000">
+	<Property Name="varPersistentID:{516C4E42-E989-4D02-94D1-1526269F6D45}" Type="Ref">/My Computer/TCP-Close.lvlib/RT-Close</Property>
 	<Property Name="varPersistentID:{619E94B7-EA0D-403D-BF38-723C49C7B69E}" Type="Ref">/My Computer/Network Data.lvlib/Time</Property>
 	<Property Name="varPersistentID:{774E7AF5-DAEE-416D-A803-CFE8E09B89EE}" Type="Ref">/My Computer/Network Data.lvlib/EmptyArray</Property>
 	<Property Name="varPersistentID:{C4A7238A-DD83-4AED-A526-B78115056262}" Type="Ref">/My Computer/Network Data.lvlib/EEG</Property>
@@ -17,6 +18,7 @@
 		<Item Name="Data-to-PC.vi" Type="VI" URL="../Data-to-PC.vi"/>
 		<Item Name="MainApp.vi" Type="VI" URL="../MainApp.vi"/>
 		<Item Name="Network Data.lvlib" Type="Library" URL="../Network Data.lvlib"/>
+		<Item Name="TCP-Close.lvlib" Type="Library" URL="../TCP-Close.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
